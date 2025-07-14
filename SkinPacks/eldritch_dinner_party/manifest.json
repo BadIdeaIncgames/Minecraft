@@ -1,0 +1,23 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Eldritch Dinner Party",
+		"uuid": "f2c114f2-30ab-484d-81b1-cf4ef94f8817",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "skin_pack",
+			"uuid": "99b40fe7-5a3a-4c90-b57c-df9fd4ffcacd",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}

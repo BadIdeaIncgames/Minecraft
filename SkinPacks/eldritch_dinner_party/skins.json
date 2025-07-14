@@ -1,0 +1,24 @@
+{
+	"serialize_name": "Eldritch Dinner Party",
+	"localization_name": "eldritch_dinner_party",
+	"skins": [
+		{
+			"localization_name": "dapper_cthulu",
+			"texture": "dapper_cthulu.png",
+			"geometry": "geometry.humanoid.custom",
+			"type": "free"
+		},
+		{
+			"localization_name": "starfarer",
+			"texture": "starfarer.png",
+			"geometry": "geometry.humanoid.custom",
+			"type": "free"
+		},
+		{
+			"localization_name": "solumn",
+			"texture": "solumn.png",
+			"geometry": "geometry.humanoid.custom",
+			"type": "free"
+		}
+	]
+}
